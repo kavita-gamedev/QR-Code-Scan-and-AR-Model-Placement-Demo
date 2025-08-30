@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047895264572",
+    "firebase_url":  "null",
+    "project_id": "softi-fb184",
+    "storage_bucket": "softi-fb184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047895264572:android:e50015356d1fd81f8f2239",
+        "android_client_info": {
+          "package_name": "com.wsstudios.softiqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047895264572-8b1sb0qkf5ae6aad1gtls4hplv1r68u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxPguYJjNMjTTT4Zkjp7i64dRYdqCubQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047895264572-8b1sb0qkf5ae6aad1gtls4hplv1r68u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

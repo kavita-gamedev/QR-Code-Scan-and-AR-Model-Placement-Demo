@@ -1,0 +1,102 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Art/Character And Weapons/Cannon/SpriteSheet/CPU/cannon_anim_red.tpsheet
+- Assets/Art/Character And Weapons/Cannon/SpriteSheet/User/cannon_anim_blue.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Left_22d.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Left_45d.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Left_68d.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Right_22d.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Right_45d_&_68d.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front_Left_22d_&_45d.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front_Left_68d_&_90d_&_front_Right_45d_&_68d.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front_Right_22d.tpsheet
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front_Right_90d.tpsheet
+- Assets/Art/Character And Weapons/Jatayu/SpriteSheet/Jatayu Attack/Jatayu_Attack_Left_90d.tpsheet
+- Assets/Art/Character And Weapons/Jatayu/SpriteSheet/Jatayu Attack/Jatayu_Attack_Right_90d.tpsheet
+- Assets/Art/Character And Weapons/King/SpriteSheet/king_back.tpsheet
+- Assets/Art/Character And Weapons/King/SpriteSheet/king_front.tpsheet
+- Assets/Art/Character And Weapons/Queen/SpriteSheet/Queen_Back.tpsheet
+- Assets/Art/Character And Weapons/Queen/SpriteSheet/Queen_Front.tpsheet
+- Assets/Art/Gameplay/TowerHenchMan/RockTower.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Rakshith/KingAnimation/King.tpsheet
+- Assets/Shakuni/Shakuni.tpsheet
+- Assets/Textures/VeeraTest/veeratest.tpsheet
+- Assets/ThirdPartyTools/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/WSS/Art/Cracker_animation/Dynamite.tpsheet
+- Assets/WSS/Art/Emojis/King/King Angry & Cry/King Angry & Cry.tpsheet
+- Assets/WSS/Art/Emojis/King/King Angry/King Angry.tpsheet
+- Assets/WSS/Art/Emojis/King/King Cry/king cry.tpsheet
+- Assets/WSS/Art/Emojis/King/King Smile & Thumbs Up/King Smile & Thumbs Up.tpsheet
+- Assets/WSS/Art/Emojis/King/King Smile/king smile.tpsheet
+- Assets/WSS/Art/Emojis/King/King Thumbs Up/king thumbs up.tpsheet
+textureFileNames:
+- Assets/Art/Character And Weapons/Cannon/SpriteSheet/CPU/cannon_anim_red.png
+- Assets/Art/Character And Weapons/Cannon/SpriteSheet/User/cannon_anim_blue.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Left_22d.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Left_45d.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Left_68d.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Right_22d.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_Back_Right_45d_&_68d.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front_Left_22d_&_45d.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front_Left_68d_&_90d_&_front_Right_45d_&_68d.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front_Right_22d.png
+- Assets/Art/Character And Weapons/Henchman/SpriteSheet/Henchman_Attack_front_Right_90d.png
+- Assets/Art/Character And Weapons/Jatayu/SpriteSheet/Jatayu Attack/Jatayu_attack_left_90d.png
+- Assets/Art/Character And Weapons/Jatayu/SpriteSheet/Jatayu Attack/Jatayu_Attack_Right_90d.png
+- Assets/Art/Character And Weapons/King/SpriteSheet/king_back.png
+- Assets/Art/Character And Weapons/King/SpriteSheet/king_front.png
+- Assets/Art/Character And Weapons/Queen/SpriteSheet/Queen_Back.png
+- Assets/Art/Character And Weapons/Queen/SpriteSheet/Queen_Front.png
+- Assets/Art/Gameplay/TowerHenchMan/RockTower.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Rakshith/KingAnimation/King.png
+- Assets/Shakuni/Shakuni.png
+- Assets/Textures/VeeraTest/veeratest.png
+- Assets/ThirdPartyTools/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/WSS/Art/Cracker_animation/Dynamite.png
+- Assets/WSS/Art/Emojis/King/King Angry & Cry/King Angry & Cry.png
+- Assets/WSS/Art/Emojis/King/King Angry/King Angry.png
+- Assets/WSS/Art/Emojis/King/King Cry/king cry.png
+- Assets/WSS/Art/Emojis/King/King Smile & Thumbs Up/King Smile & Thumbs Up.png
+- Assets/WSS/Art/Emojis/King/King Smile/king smile.png
+- Assets/WSS/Art/Emojis/King/King Thumbs Up/king thumbs up.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- Assets/ThirdPartyTools/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
